@@ -2,14 +2,81 @@
 layout: home
 permalink: /
 permalink_name: /home
-title: jekyll-shell-theme
+title: Ahmad Charkhab
 
 detail_image: assets/theme_logo.svg
+---
+
+_  _                   _    _____  _                   _ hab
+/ | |__  _ __ ___   _| |  / __|| |   __ _ _ | | /_/\
+/ _ \ ' | '  _ \ / _ | | |    | ' \ / _` | '| |/ /    \
+/ ___ \ | | | | | | | | (| | | || | | | (| | |  |   <    /
+//   __||| || ||_,|  _|| ||_,||  |_|_\  /
+
+
+======================================================================
+[+] USER: Ahmad Charkhab
+[+] STATUS: Breaking things securely, fixing them, repeating!
+[+] PASSION: Absolute Tech Enthusiast & Digital World Explorer
+
+# سلام! به سندباکس و آزمایشگاه دیجیتالم خوش اومدی 👾
+
+من **احمد چهارخاب** هستم؛ یه خوره تکنولوژی و عاشقِ بی‌حدومرزِ دنیای دیجیتال. کلاً از اونام که اگه یه سیستم سالمم جلوشون بذاری، انقدر تنظیماتش رو دستکاری می‌کنن، شل و ترمینال میگیرن و تا مرز کرش دادن پیش می‌برنش تا دقیقاً بفهمن اون زیر چی می‌گذره!
+
+اینجا دفترچه یادداشتِ متنی و سندباکسِ منه؛ جایی که تجربیات واقعی، پروژه‌های عجیب‌غریبِ هوم‌لب، سناریوهای شبکه، تست نفوذ و دیباگ کردن‌های نیمه‌شبم رو مستند می‌کنم.
 
 ---
 
-# jekyll-shell-theme
+## 🛠 ابزارها و اسباب‌بازی‌های موردعلاقم (Tech Stack)
 
-**Jekyll Shell Theme** is an open source light-weight customizable jekyll theme for your site! You can use it to spice up your personal profiles, project pages or just about anything!
+[Networks & Routing]   --> Mikrotik RouterOS (Physical & CHR), Custom VLANs, Firewall Rules
+[Virtualization]      --> Proxmox VE, Migrating from ESXi, Storage Tweaks
+[Containers]          --> Docker, Docker-Compose, Self-Hosted Everything!
+[Coding & Dev]        --> C#, .NET 6, Visual Studio 2022
+[Local AI Sandbox]    --> Running & Routing LLMs locally via Ollama
+[Security & Hacking]  --> Pentesting, Network Exploitation, Console & Firmware Modding
 
-No prior web-dev knowledge is required to use the theme to make a website, just follow the instructions in [/read-me](read-me) to set up your web page and start filling it with hackery content! You can see sone features of the theme in [/preview](preview).
+
+---
+
+## 🚀 پروژه‌ها و ماجراجویی‌های اخیر
+
+### ۱. مهاجرت بزرگ در هوم‌لب (ESXi ➔ Proxmox VE)
+* **داستانش:** بی‌خیالِ ESXi شدیم و کل هایپروایزر و ماشین‌ها رو کوبیدیم از نو روی Proxmox VE ساختیم. انتقال OVAها، دستکاری استوریج‌های محلی و بالابودن سرویس‌ها بدون قطعی!
+
+### ۲. بازطراحی شبکه با ۶ تا VLAN مجزا روی میکروتیک CHR
+* **داستانش:** واسه اینکه ترافیک آزمایشگاه قاطی نشه، یه CHR مجازی آوردیم بالا و کل شبکه رو تقسیم کردیم به ۶ تا زون ایزوله با قواعد فایروال سفت‌وسخت.
+
+### ۳. استقرار Odoo 18 Enterprise پشت Nginx
+* **داستانش:** کانفیگ صفر تا صد سرور آن‌پرمیس Odoo 18، روت کردن ترافیک با Nginx و گرفتن SSL خودکار با Certbot.
+
+### ۴. بازی با هوش مصنوعی روی سیستم محلی (Local LLM)
+* **داستانش:** راه‌اندازی Ollama و مسیریابی سخت‌افزاری تا مدل‌های زبانی بدون نیاز به اینترنت و مستقیم روی سیستم خودم بدوان!
+
+---
+
+## 💼 لول‌های فعالیت در دنیای واقعی
+
++------------------------------------+---------------------------------------+
+| اینو کجا اجرا می‌کنم؟               | دقیقاً چه بلایی سر سیستم میارم؟       |
++------------------------------------+---------------------------------------+
+| Home Lab Sandbox                   | طراحی معماری، بالا آوردن کانتینرها،   |
+| [مهندس زیرساخت و هوم‌لب]            | کلسترسازی و صدالبته خرابکاری و ساخت مجدد!|
++------------------------------------+---------------------------------------+
+| Security & Pentest Lab             | پیدا کردن باگ‌های شبکه، تست نفوذ،     |
+| [پژوهشگر امنیت و باگ‌هانتر]         | و تحلیل اکسپلویت‌ها روی محیط آزمایشگاهی.|
++------------------------------------+---------------------------------------+
+
+
+---
+
+## 📬 راه‌های اتصال به سیستم (Social Links)
+
+اگه مثل من خوره‌ی شبکه‌ای یا کلاً از ور رفتن با کدهای فنی لذت می‌بری، بیا گپ بزنیم:
+
+* **گیت‌هاب:** [@ahmadcharkhab](https://github.com/ahmadcharkhab)
+* **ایکس (توییتر):** [@ahmadcharkhab](https://twitter.com/ahmadcharkhab)
+* **اینستاگرام:** [@ahmadcharkhab](https://instagram.com/ahmadcharkhab)
+* **ایمیل:** `your-email@example.com`
+
+---
