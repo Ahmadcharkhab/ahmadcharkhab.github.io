@@ -1,9 +1,9 @@
-title: "jekyll-shell-theme"
-tagline: "A jekyll theme that looks like a shell/terminal"
-description: "This is a preview of jekyll-shell-theme."
+title: "Ahmad Charkhab"
+tagline: "Personal blog & terminal sandbox"
+description: "دنیای دیجیتال از دید کسی که عاشق تست کردن, خراب کردن و دوباره ساختن چیزهاست. اینجا تجربیات و ماجراجویی‌های فنی‌ام رو به اشتراک میذارم."
 github_username: tareqdandachi
-baseurl: "/jekyll-shell-theme"
-url: "https://tareqdandachi.github.io"
+baseurl: ""
+url: "https://ahmadcharkhab.github.io"
 
 plugins:
   - jemoji
